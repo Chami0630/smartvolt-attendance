@@ -42,7 +42,7 @@ SMART VOLT is a comprehensive web-based management system designed specifically 
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/smartvolt-attendance.git
+git clone https://github.com/Chami0630/smartvolt-attendance.git
 cd smartvolt-attendance
 composer install
 cp .env.example .env
